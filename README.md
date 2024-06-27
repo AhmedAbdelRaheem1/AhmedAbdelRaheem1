@@ -4,17 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/ahmeddmohammed_" target="blank"><img src="https://img.shields.io/twitter/follow/ahmeddmohammed_?logo=twitter&style=for-the-badge" alt="ahmeddmohammed_" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Computer Vision**
+- 🌱 I’m currently learning **Operating Systems, DevOps, and Site Reliability Engineering**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AhmedAbdelRaheem1?tab=repositories)
 
-- 📝 I regularly write articles on [LinkedIN](https://www.linkedin.com/in/ahmed-abdel-rahim-51a01b216/)
-
-- 💬 Ask me about **Architecture, Operating Systems, and DevOps**
-
 - 📫 How to reach me [Email](ahmed.abdelraheem11a@gmail.com)
-
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1JM0BANXj9vzhAGJoWo0HsB3qEq3AbX0D/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
